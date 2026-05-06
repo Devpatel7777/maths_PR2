@@ -30,20 +30,6 @@ The project includes:
 
 ---
 
-# Dataset Features
-
-The dataset contains 200 student records with the following columns:
-
-| Column Name         | Description                       |
-| ------------------- | --------------------------------- |
-| study_hours         | Number of study hours             |
-| attendance          | Attendance percentage             |
-| group_discussion    | Participation in group discussion |
-| previous_test_score | Previous test marks               |
-| final_exam_pass     | Final exam result                 |
-
----
-
 # Concepts Covered
 
 ## Basic Probability
@@ -104,3 +90,14 @@ Checking whether events are:
 Used to calculate:
 
 P(Pass | High Attendance)
+
+---
+
+# Conclusion
+
+The analysis shows that:
+
+* Higher study hours increase pass probability
+* Attendance plays a major role
+* Previous test scores strongly affect results
+* Group discussion participation positively impacts performance
